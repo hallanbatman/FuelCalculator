@@ -1,7 +1,13 @@
 # Fuel Cost Calculator
 This project is a native Android application developed with the Kotlin language with the objective of calculating the cost of fuel considering the fuel price, average vehicle consumption and distance it will travel. It is also a challenge for me to improve my skills in Kotlin development, practicing screen transitions and using variables.
 
-## Tecnologias
+<img src="https://github.com/user-attachments/assets/e5aecf1c-9c9a-4471-a7fe-b8e5e64886fd" width=150/>
+<img src="https://github.com/user-attachments/assets/8db6a8a9-7331-4e2d-85cd-414b8ebe082c" width=150/>
+<img src="https://github.com/user-attachments/assets/7dca9c81-5772-4453-8e85-93e37eaa7971" width=150/>
+<img src="https://github.com/user-attachments/assets/e4790e4f-cbf3-4c14-addb-75162fe08845" width=150/>
+<img src="https://github.com/user-attachments/assets/895cb618-0c9e-46fb-bc1e-5e60ace4bfc1" width=150/>
+
+## Technologies
 - Activity
 - Intent
 - Snackbar
